@@ -1,0 +1,16 @@
+[
+  {
+    "messageID": "275304",
+    "messageHash": "27:HELLO,MESSAGE.",
+    "recipient": "+27831234567",
+    "messageText": "Hello, this is my first stored message.",
+    "status": "Stored"
+  },
+  {
+    "messageID": "644937",
+    "messageHash": "64:THISMESSAGE.",
+    "recipient": "+27839876543",
+    "messageText": "This is my second stored message.",
+    "status": "Stored"
+  }
+]
